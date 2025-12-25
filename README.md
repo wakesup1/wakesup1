@@ -3,6 +3,15 @@
 A curious computer engineering student from Thailand — learning, experimenting, and trying to get better "some" day.
 </h3>
 
+---
+
+### ✨ Goals
+- Improve my coding fundamentals
+- Build more real-world mini-projects
+- Learn how to collaborate using Git & GitHub
+
+---
+
 ### 💻 Languages and Tools
 
 <p align="left">
