@@ -1,52 +1,56 @@
-<h1 align="center">Hi 👋, I'm First</h1>
-<h3 align="center">
-A curious computer engineering student from Thailand — learning, experimenting, and trying to get better "some" day.
-</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1810,35:5D4037,70:A67C52,100:E6CCB2&height=190&section=header&text=Weerapat%20Plakatthong&fontSize=44&fontColor=FFF8E7&animation=fadeIn&fontAlignY=36"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=2800&pause=1000&color=D7B899&center=true&vCenter=true&width=760&lines=Computer+Engineering+%E2%80%A2+CU+%E2%80%A2+108+%28CP+51%29;. . .Loading. . .;"/>
+
+</div>
 
 ---
 
-### ✨ Goals
-- Improve my coding fundamentals
-- Build more real-world mini-projects
-- Learn how to collaborate using Git & GitHub
-
----
-
-### 💻 Languages and Tools
+# FIELDS OF INTEREST
 
 <p align="left">
-
-<!-- C++ -->
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
+  <img src="https://img.shields.io/badge/Quantum-2A1810?style=for-the-badge&logo=qiskit&logoColor=C8A27A"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-3E2723?style=for-the-badge&logo=tensorflow&logoColor=E6CCB2"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-5D4037?style=for-the-badge&logo=claude code&logoColor=FFF8E7"/>
+  <img src="https://img.shields.io/badge/Computer%20Architecture-A67C52?style=for-the-badge&logo=gnometerminal&logoColor=2A1810"/>
 </p>
 
 ---
 
-### 🌱 Currently learning
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+# TECH STACK
 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+### Languages
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts"/>
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</p>
+
+### Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase"/>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6CCB2,35:A67C52,70:5D4037,100:2A1810&height=120&section=footer"/>
+
+</div>
