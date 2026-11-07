@@ -35,6 +35,16 @@ A team-built tutoring platform where I contribute across backend behavior, front
 
 <samp>Next.js · NestJS · TypeScript · PostgreSQL · Prisma</samp>
 
+### [StudyGroup](https://github.com/Sitta-C/StudyGroup) — Keeping the party connected
+
+A Computer Networking team project: a real-time chat application with a React client and Python server.
+
+- Group and private messaging over WebSocket, with online presence and persistent message history.
+- A custom length-prefixed JSON protocol for TCP clients, handling fragmented reads, request correlation, and thread-safe message writes.
+- Chunked file transfers with SHA-256 integrity checks, plus authentication, room permissions, and TLS/WSS support.
+
+<samp>Python · React · TypeScript · TCP sockets · WebSocket · SQLite · TLS</samp>
+
 ## Tech inventory
 
 Tools I've worked with across projects and coursework. My main focus is the TypeScript web stack.
