@@ -1,23 +1,19 @@
 <img src="https://github.com/user-attachments/assets/bab21b36-328e-4f55-a610-bd03d9912b28" alt="A pixel-art adventurer at an enchanted forest gateway, overlooking a moonlit castle" width="100%" />
 
-# Hi, I'm Weerapat 👋
+# Hi
 
-<samp>COMPUTER ENGINEERING @ CHULALONGKORN UNIVERSITY · CLASS OF 2028</samp>
+<samp>COMPUTER ENGINEERING @ CHULALONGKORN UNIVERSITY</samp>
 
 Welcome to my little corner of the realm. I build web applications and enjoy figuring out how to keep systems correct when requests overlap or things fail.
 
-**Seeking software engineering internships** · Backend & full-stack development · Exploring infrastructure
-
-[About](#-about) · [Quest log](#-quest-log) · [Tech inventory](#-tech-inventory) · [Contact](#lets-connect)
-
-## 🧭 About
+## About
 
 - Computer Engineering student at Chulalongkorn University, based in Bangkok.
 - Working with **TypeScript, Next.js, NestJS, PostgreSQL, and Prisma**.
 - Interested in **concurrency, reliable APIs, automated testing, and infrastructure**.
 - Learning through personal projects, team development, and pull request reviews.
 
-## 📜 Quest log
+## Quest log
 
 ### [LastResort](https://github.com/wakesup1/LastResort) — Keeping the last ticket safe
 
@@ -27,7 +23,7 @@ A personal ticket reservation project focused on correctness under contention.
 - Idempotent booking and failure recovery for retries, response loss, and application restarts.
 - Correctness checks across **200 competing operations for 100 tickets**, with integration, concurrency, and recovery tests automated through GitHub Actions.
 
-<samp>Next.js · NestJS · TypeScript · PostgreSQL · Prisma</samp>
+<samp>Next.js · TypeScript · PostgreSQL</samp>
 
 ### [HKTutor](https://github.com/Sitta-C/HKTutor) — Building with a party
 
@@ -39,7 +35,7 @@ A team-built tutoring platform where I contribute across backend behavior, front
 
 <samp>Next.js · NestJS · TypeScript · PostgreSQL · Prisma</samp>
 
-## 🎒 Tech inventory
+## Tech inventory
 
 Tools I've worked with across projects and coursework. My main focus is the TypeScript web stack.
 
