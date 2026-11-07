@@ -1,44 +1,70 @@
-<div align="center">
+<img src="https://github.com/user-attachments/assets/bab21b36-328e-4f55-a610-bd03d9912b28" alt="A pixel-art adventurer at an enchanted forest gateway, overlooking a moonlit castle" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1810,35:5D4037,70:A67C52,100:E6CCB2&height=190&section=header&text=Weerapat%20Plakatthong&fontSize=44&fontColor=FFF8E7&animation=fadeIn&fontAlignY=36"/>
+# Hi, I'm Weerapat 👋
 
-<br/>
+<samp>COMPUTER ENGINEERING @ CHULALONGKORN UNIVERSITY · CLASS OF 2028</samp>
 
-</div>
+Welcome to my little corner of the realm. I build web applications and enjoy figuring out how to keep systems correct when requests overlap or things fail.
 
----
+**Seeking software engineering internships** · Backend & full-stack development · Exploring infrastructure
 
+[About](#-about) · [Quest log](#-quest-log) · [Tech inventory](#-tech-inventory) · [Contact](#lets-connect)
 
-# TECH STACK
+## 🧭 About
 
-### Languages
+- Computer Engineering student at Chulalongkorn University, based in Bangkok.
+- Working with **TypeScript, Next.js, NestJS, PostgreSQL, and Prisma**.
+- Interested in **concurrency, reliable APIs, automated testing, and infrastructure**.
+- Learning through personal projects, team development, and pull request reviews.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts"/>
-</p>
+## 📜 Quest log
 
-### Frontend
+### [LastResort](https://github.com/wakesup1/LastResort) — Keeping the last ticket safe
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
+A personal ticket reservation project focused on correctness under contention.
 
-### Backend
+- PostgreSQL row-level locking and atomic transactions to prevent overselling.
+- Idempotent booking and failure recovery for retries, response loss, and application restarts.
+- Correctness checks across **200 competing operations for 100 tickets**, with integration, concurrency, and recovery tests automated through GitHub Actions.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs"/>
-</p>
+<samp>Next.js · NestJS · TypeScript · PostgreSQL · Prisma</samp>
 
-### Database
+### [HKTutor](https://github.com/Sitta-C/HKTutor) — Building with a party
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase"/>
-</p>
+A team-built tutoring platform where I contribute across backend behavior, frontend UX, and code review.
 
----
+- Strengthened registration safety and tutor eligibility checks across discovery and booking workflows.
+- Improved qualification upload UX with bilingual feedback, validation, and recovery states.
+- Reviewed teammates' pull requests for API inconsistencies, potential race conditions, and error-handling gaps.
 
-<div align="center">
+<samp>Next.js · NestJS · TypeScript · PostgreSQL · Prisma</samp>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6CCB2,35:A67C52,70:5D4037,100:2A1810&height=120&section=footer"/>
+## 🎒 Tech inventory
 
-</div>
+Tools I've worked with across projects and coursework. My main focus is the TypeScript web stack.
+
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp,go&theme=dark" alt="TypeScript, JavaScript, Python, Java, C, C++, Go" />
+
+#### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="React, Next.js, Tailwind CSS, HTML, CSS" />
+
+#### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" alt="Node.js, NestJS, Express" />
+
+#### Databases & ORM
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Prisma, Supabase" />
+
+#### Tools & infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,docker,aws,githubactions&theme=dark" alt="Git, Docker, AWS EC2, GitHub Actions" />
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/weerapat-plakatthong-444594449/) · [Email](mailto:weerapat.pkt@gmail.com)
+
+<sub>Building useful things, learning one quest at a time.</sub>
